@@ -1,0 +1,41 @@
+/* === About Us === */
+
+/* .abut-us{
+     width: 80%;
+     margin: auto;
+     padding-top: 80px;
+     padding-bottom: 50px;
+ }
+ .about-col{
+     flex-basis: 48%;
+     padding: 30px 2px;
+ }
+
+ .about-col h1{
+     padding-top: 0px;
+ }
+ .about-col p{
+     padding: 15px 0 25px;
+ } */
+ 
+ /*------------- about us page---------------*/
+
+/* === About Us === */
+ .abut-us {
+     width: 100%;
+     margin: 1px;
+     padding-top: 0px;
+     padding-bottom: 50px;
+  #about-img {
+      width: 50%;
+      height: 60%;
+      margin: 5%;
+  }
+   .about-col {
+       flex-basis: 60%;
+       padding: 30px 2px;
+       padding-left: 10px;
+       
+   }
+   
+
